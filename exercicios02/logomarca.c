@@ -9,7 +9,7 @@
 
 int main(){
 	// Foi o melhor que eu consegui :P
-	printf("     _____         ________     __          __     |------ \n");
+    printf("     _____         ________     __          __     |------ \n");
     printf("    /     \\       /        \\  |  |        |  |   |       \n");
     printf("   / /| |\\ \\     /   ______/  |  |\\      /|  |  |----   \n");
     printf("  / / | | \\ \\   /   /         |  | \\____/ |  |  |       \n");
@@ -25,5 +25,5 @@ int main(){
     printf("[3] Produtos.\n");
     printf("[4] Sair.\n");
 
-	return 0;
+    return 0;
 }
